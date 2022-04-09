@@ -1,4 +1,5 @@
 * [介绍](README.md)
-* 开发
-  * [开发](dev/dev.md)
-  * [生态库](dev/eco.md)
+* [知识](kb/SUMMARY.md)
+  * [数据](kb/data.md)
+  * [生态库](kb/eco.md)
+* [推理服务](infer/SUMMARY.md)
