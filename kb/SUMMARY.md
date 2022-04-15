@@ -6,7 +6,6 @@
 ## 基础知识
 * 最小二乘法：最小平方
 * [信息熵](http://baike.baidu.com/item/%E4%BF%A1%E6%81%AF%E7%86%B5)：系统有序化程度，越有序越低
-* [支持向量机SVM](https://www.zhihu.com/question/21094489)
 * [标量、向量、矩阵、张量](https://easyai.tech/ai-definition/scalar/)
 * ![混淆矩阵](../s/ai/confusionMatrix.png)
 

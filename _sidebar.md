@@ -2,4 +2,5 @@
 * [知识](kb/SUMMARY.md)
   * [数据](kb/data.md)
   * [生态库](kb/eco.md)
+  * [算法](kb/alg.md)
 * [推理服务](infer/SUMMARY.md)
