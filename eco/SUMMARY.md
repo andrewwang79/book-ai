@@ -12,6 +12,7 @@
 | [NVIDIA CLARA HOLOSCAN](https://www.nvidia.cn/clara/medical-devices/) | 医疗设备的人工智能计算平台 |
 | [GStreamer](https://www.cnblogs.com/xleng/p/10948838.html) | 流媒体处理框架，RTSP/RTMP等流媒体网络传输协议  |
 | [DeepStream](https://blog.csdn.net/Tosonw/article/details/104154090) | 基于GStreamer的NVIDIA框架，应用于视觉整个流程的解决方案，覆盖视频编解码、图像推理，画面显示等。采用pipeline的模块化插件，每个插件代表一个功能块。 |
+| [NVIDIA Jetson](https://baike.baidu.com/item/NVIDIA%20Jetson/23623742) | 适用于自主机器的嵌入式系统  |
 
 ## 库
 | 项 | 说明 |
