@@ -48,4 +48,6 @@
 * [2016AI巨头开源IP盘点 50个最常用的深度学习库](https://news.cnblogs.com/n/559753/)
 
 ### 神经网络
-* [卷积神经网络CNN](https://www.zhihu.com/question/34681168)
+* [卷积神经网络原理](https://www.zhihu.com/question/34681168)
+* [卷积神经网络学习](https://blog.csdn.net/wjinjie/article/details/105016766)
+* [激活函数](https://blog.csdn.net/wjinjie/article/details/104729911)
