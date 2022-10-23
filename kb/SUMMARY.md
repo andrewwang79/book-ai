@@ -11,6 +11,10 @@
 * [梯度与法向量](https://zhuanlan.zhihu.com/p/62718992)
 * 卷积
 
+## 距离
+* [Hausdorff distance 豪斯多夫距离](https://blog.csdn.net/lijiaqi0612/article/details/113925215)
+* [汉明距离（Hamming Distance）](https://blog.csdn.net/hy592070616/article/details/122272472) : 两个（相同长度）字符串对应位不同的数量。
+
 ## 混淆矩阵(Confusion Matrix)
 * ![混淆矩阵](../s/ai/confusionMatrix.png)
 * https://cloud.tencent.com/developer/article/1527943
