@@ -8,8 +8,9 @@
 * [方差标准差协方差](https://www.cnblogs.com/xunziji/p/6772227.html)
 * [信息熵](http://baike.baidu.com/item/%E4%BF%A1%E6%81%AF%E7%86%B5)：系统有序化程度，越有序越低
 * [标量、向量、矩阵、张量](https://easyai.tech/ai-definition/scalar/)
-* [梯度与法向量](https://zhuanlan.zhihu.com/p/62718992)
+* [梯度与法向量](https://zhuanlan.zhihu.com/p/62718992), [法向量](https://baike.baidu.com/item/%E6%B3%95%E5%90%91%E9%87%8F/1161324)
 * 卷积
+* [概率密度函数](https://www.zhihu.com/question/263467674)
 
 ## 距离
 * [Hausdorff distance 豪斯多夫距离](https://blog.csdn.net/lijiaqi0612/article/details/113925215)
