@@ -39,6 +39,9 @@
 * ROC是曲线，AUC是ROC曲线下的面积
 * https://www.cnblogs.com/dlml/p/4403482.html
 
+## 算法
+* [群体智能算法](https://blog.csdn.net/jinpeng_cumt/article/details/52557403)，模拟自然界生物群体行为：粒子群算法模拟鸟类群体行为，蚁群算法模拟蚂蚁觅食原理。
+
 ## 机器学习
 * **[斯坦福大学公开课 ：机器学习课程_全20集](http://open.163.com/special/opencourse/machinelearning.html)**
 * [初学者必读：从迭代的五个层面理解机器学习](http://it.sohu.com/20161229/n477271597.shtml)
