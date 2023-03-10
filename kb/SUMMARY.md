@@ -12,7 +12,7 @@
 * 卷积
 * [概率密度函数](https://www.zhihu.com/question/263467674)
 
-## 距离
+### 距离
 * [Hausdorff distance 豪斯多夫距离](https://blog.csdn.net/lijiaqi0612/article/details/113925215)
 * [汉明距离（Hamming Distance）](https://blog.csdn.net/hy592070616/article/details/122272472) : 两个（相同长度）字符串对应位不同的数量。
 
