@@ -2,6 +2,7 @@
 * [知识](kb/SUMMARY.md)
   * [数据](kb/data.md)
   * [算法](kb/alg.md)
+  * [图像算法](kb/image_alg.md)
 * [生态](eco/SUMMARY.md)
   * [Triton](eco/triton.md)
   * [XR](eco/xr.md)
