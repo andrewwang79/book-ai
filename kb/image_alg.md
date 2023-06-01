@@ -2,6 +2,9 @@
 > 目标：建立图像算法的知识体系
 > 内容：用途、使用场景、简单原理
 
+## 预处理
+> 重采样，归一化
+
 ## 分割
 ### 传统
 | 类型 | 算法 | 说明 |
@@ -13,7 +16,8 @@
 | 能量泛函 | active contour model; geometric active contour model |  |
 
 ### AI
-uNet based
+> uNet based
+> 检测、分割和定位：聚类和概率筛选
 
 ## 检测
 ### 传统
