@@ -5,6 +5,8 @@
 * [梯度与法向量](https://zhuanlan.zhihu.com/p/62718992), [法向量](https://baike.baidu.com/item/%E6%B3%95%E5%90%91%E9%87%8F/1161324)
 * 卷积
 * [概率密度函数](https://www.zhihu.com/question/263467674)
+* [微分方程](https://zhuanlan.zhihu.com/p/99271908)
+* [奇异值](https://zhuanlan.zhihu.com/p/480389473)
 
 ## 距离
 * [Hausdorff distance 豪斯多夫距离](https://blog.csdn.net/lijiaqi0612/article/details/113925215)

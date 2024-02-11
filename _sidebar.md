@@ -9,3 +9,5 @@
   * [Triton](eco/triton.md)
   * [XR](eco/xr.md)
 * [推理服务](infer/SUMMARY.md)
+* [机器人](robot/SUMMARY.md)
+  * [运动控制](robot/mc.md)
