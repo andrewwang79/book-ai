@@ -1,6 +1,7 @@
 # Triton
 
 ![](../s/eco/triton.png)
+* 支持自动实例化（auto-scaling）和动态批处理（dynamic batching），优化推理服务的性能和资源利用。
 
 ## 集成使用
 * [quickstart](https://github.com/triton-inference-server/server/blob/main/docs/quickstart.md)

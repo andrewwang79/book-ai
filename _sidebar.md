@@ -7,5 +7,6 @@
 * [生态](eco/SUMMARY.md)
   * [Cuda](eco/cuda.md)
   * [Triton](eco/triton.md)
+  * [TensorRT](eco/trt.md)
   * [XR](eco/xr.md)
 * [推理服务](infer/SUMMARY.md)

@@ -56,7 +56,7 @@
 * 在CPU和GPU之间传输数据，CPU负责主程序，GPU负责密集计算。
 * [PIL,Skimage,OpenCV](https://blog.csdn.net/qq_43258953/article/details/101154116)
 * [使用 MONAI 和 Triton 高效构建和部署 GPU 加速的医疗影像推理流程](https://mp.weixin.qq.com/s/HeD4QwrTJyPcxmNnw2z5fQ)
-* [流媒体](https://tech.wangyaqi.cn/#/common/streammedia)
+* [流媒体](https://sw.wangyaqi.cn/#/common/streammedia)
 
 ## 硬件
 * [Jetson](https://www.nvidia.cn/autonomous-machines/embedded-systems/)：是Arm架构。库须按照Arm架构编译，算子类型和适配
