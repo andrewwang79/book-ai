@@ -7,6 +7,7 @@
 * [概率密度函数](https://www.zhihu.com/question/263467674)
 * [微分方程](https://zhuanlan.zhihu.com/p/99271908)
 * [奇异值](https://zhuanlan.zhihu.com/p/480389473)
+* [数据平滑方法](https://blog.csdn.net/fengdu78/article/details/133874831)
 
 ## 距离
 * [Hausdorff distance 豪斯多夫距离](https://blog.csdn.net/lijiaqi0612/article/details/113925215)

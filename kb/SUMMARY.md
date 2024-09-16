@@ -11,6 +11,9 @@
 | 传统机器学习 | 是人类总结的算法，本质和深度学习训练出来的算法模型是一样的 <br> 逻辑回归、决策树、随机森林、[支持向量机SVM](https://www.zhihu.com/question/21094489)、K近邻算法（K-Nearest Neighbors，KNN） |
 | 深度学习 | 神经网络是深度学习的一种算法 <br> 模型有：卷积神经网络（Convolutional Neural Networks，CNN），Transformer |
 
+* 强化学习：通过与环境交互来学习行为策略的方法。智能体（agent）通过采取行动（actions）从环境（environment）中获得奖励（rewards），并根据奖励调整其策略（policy）以最大化累积奖励。
+* 模仿学习：通过模仿专家行为来学习策略的方法。基于专家数据训练模型。
+
 ## 深度学习
 * 常见的神经网络操作：矩阵乘法、卷积、池化、归一化等
 * 超参数：在机器学习和深度学习中用于控制模型训练过程的参数，在训练之前手动设置。超参数的选择可以对模型的性能和训练过程产生重要影响。常见超参数如批量大小（Batch Size），学习率（Learning Rate）
@@ -26,16 +29,22 @@
 1. 池化层（Pooling Layer）：通过降采样操作减小特征图的空间尺寸，减少计算复杂度并提取最显著的特征。常见的池化操作包括最大池化和平均池化。
 1. 规范化层（Normalization Layer）：如批量归一化（Batch Normalization）和层归一化（Layer Normalization），用于加速训练过程、增加模型的稳定性和减少内部协变量偏移。
 
-### 常用激活函数
-1. Sigmoid函数（Logistic函数）：将输入值压缩到0到1之间的连续范围，公式为 f(x) = 1 / (1 + exp(-x))。
-1. ReLU函数（Rectified Linear Unit）：对于正输入，输出为输入值本身；对于负输入，输出为0，公式为 f(x) = max(0, x)。
-1. Softmax函数：常用于多类别分类问题，将输入映射为概率分布，使得所有输出值之和等于1。
+### 激活函数
+* https://zhuanlan.zhihu.com/p/352668984，https://zhuanlan.zhihu.com/p/337902763, https://blog.csdn.net/wjinjie/article/details/104729911
+* 使用非线性激活函数是为了增加神经网络模型的非线性因素。激活函数对于人工神经网络模型去学习、理解非常复杂和非线性的函数来说具有十分重要的作用。
+* 常用激活函数
+    1. Sigmoid函数（Logistic函数）：将输入值压缩到0到1之间的连续范围，公式为 f(x) = 1 / (1 + exp(-x))。
+    1. ReLU函数（Rectified Linear Unit）：对于正输入，输出为输入值本身；对于负输入，输出为0，公式为 f(x) = max(0, x)。
+    1. Softmax函数：常用于多类别分类问题，将输入映射为概率分布，使得所有输出值之和等于1。
 
 ### 卷积核
 * 影响到网络的性能和学习能力。初始权重通常使用随机初始化的方法，如高斯分布或均匀分布。合适的初始化方法可以帮助网络更快地收敛和更好地学习特征。
 
 ### 模型
 * 压缩技术：量化剪枝
+
+### 梯度下降
+* 暴力调优
 
 ## 资料
 ### 机器学习
@@ -55,4 +64,4 @@
 ### 神经网络
 * [卷积神经网络原理](https://www.zhihu.com/question/34681168)
 * [卷积神经网络学习](https://blog.csdn.net/wjinjie/article/details/105016766)
-* [激活函数](https://blog.csdn.net/wjinjie/article/details/104729911)
+* [感知机](https://zhuanlan.zhihu.com/p/492867531)

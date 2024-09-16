@@ -8,6 +8,5 @@
 > 过去10年我们一直在做一件事，那就是打造移动优先的世界。而在接下来的10年时间里，我们将转到一个AI优先的世界。——Google CEO Sundar Pichai，2016年10月
 
 
-* 现状：有归纳，缺联想和推理
 * [人工智能](https://baike.baidu.com/item/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/9180)
 * [无监督式学习网络](https://www.baike.com/wiki/%E6%97%A0%E7%9B%91%E7%9D%A3%E5%BC%8F%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C)
