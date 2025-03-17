@@ -1,4 +1,5 @@
 # 生态
+![img](../s/eco/nvidia_system.png)
 
 ## 框架服务
 | 项 | 说明 |
@@ -17,8 +18,8 @@
 ## 库
 | 项 | 说明 |
 | :-: | - |
-| [CUDA](https://devblogs.nvidia.com/even-easier-introduction-cuda/) | 通用并行计算，是GPU的封装库。类似的有工业标准OpenCL。用于AI算子插件开发 |
-| [cuDNN]() | CUDA 深度神经网络 |
+| [CUDA](https://devblogs.nvidia.com/even-easier-introduction-cuda/) | 通用并行计算框架，是GPU的封装库，打通程序运行时CPU和GPU的壁垒，将逻辑操作交给CPU，计算操作交给GPU。类似的有工业标准OpenCL。用于AI算子插件开发 |
+| [cuDNN]() | 基于CUDA的深度神经网络 |
 | [cuCIM](https://www.quansight.com/post/performance-for-image-processing-with-cucim) | NVIDIA的scikit-image的GPU版本. provide GPU-accelerated I/O, computer vision and image processing primitives for N-Dimensional images with a focus on biomedical imaging |
 | scikit-image | C++数字图像处理库，使用Python接口。类似OpenCV，ITK |
 | [DALI](https://github.com/NVIDIA/DALI) | NVIDIA Data Loading Library，基于Python，训练用 |
